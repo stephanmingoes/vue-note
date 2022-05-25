@@ -1,6 +1,6 @@
 # Vue Todo List
 
-![Live site](https://vue-note-sc.netlify.app)
+[Live site](https://vue-note-sc.netlify.app)
 ![](/src/assets/screenshot.jpg)
 
 This template should help get you started developing with Vue 3 in Vite.
